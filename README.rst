@@ -1,6 +1,12 @@
 KitPyLib
 ========
 
+.. image:: https://badge.fury.io/py/kitpylib.svg
+    :target: https://pypi.org/p/kitpylib
+
+.. image:: https://img.shields.io/github/license/kitpylib/kitpylib
+   :alt: GitHub License
+
 A Python Toolkit Library for developing packages.
 
 How to install this package
