@@ -2,7 +2,7 @@ KitPyLib
 ========
 
 .. image:: https://badge.fury.io/py/kitpylib.svg
-    :target: https://pypi.org/p/kitpylib
+    :target: https://pypi.org/project/kitpylib
 
 .. image:: https://img.shields.io/github/license/kitpylib/kitpylib
    :alt: GitHub License
