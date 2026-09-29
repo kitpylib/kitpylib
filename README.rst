@@ -1,11 +1,15 @@
-KitPyLib
-========
+.. image:: https://kpldoc.pages.dev/_static/icon1.png
+   :alt: KitPyLib Homepage
+   :target: https://kitpylib.pages.dev
+   :align: center
 
-.. image:: https://badge.fury.io/py/kitpylib.svg
-    :target: https://pypi.org/project/kitpylib
+.. image:: https://img.shields.io/pypi/v/kitpylib
+   :alt: PyPI Version
+   :target: https://pypi.org/project/kitpylib
 
 .. image:: https://img.shields.io/github/license/kitpylib/kitpylib
    :alt: GitHub License
+   :target: https://github.com/kitpylib/kitpylib/blob/main/LICENSE
 
 A Python Toolkit Library for developing packages.
 
