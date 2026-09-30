@@ -1,7 +1,9 @@
-.. image:: https://kpldoc.pages.dev/_static/icon1.png
+.. image:: https://kitpylib.pages.dev/_static/icon1.png
    :alt: KitPyLib Homepage
    :target: https://kitpylib.pages.dev
    :align: center
+
+==================================================================
 
 .. image:: https://img.shields.io/pypi/v/kitpylib
    :alt: PyPI Version
@@ -32,4 +34,4 @@ Use the built-in ``help`` function to view a function's docstring::
   >>> help(kpl.fplot2d)
   ... # doctest: +SKIP
 
-You can also visit our website https://kitpylib.pages.dev for more information.
+You can also visit `KitPyLib Homepage <https://kitpylib.pages.dev>`_ for more information.
